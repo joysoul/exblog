@@ -4,3 +4,6 @@
 [submodule "themes/hugo-w3-simple"]
 	path = themes/hugo-w3-simple
 	url = https://proxy.joyso.workers.dev/https://github.com/jesselau76/hugo-w3-simple.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://proxy.joyso.workers.dev/https://github.com/dreamsafari/loveit.git
